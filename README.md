@@ -2,7 +2,7 @@
 ## HelloWorldCodePath
 
 ### App Description
-The Pre-work application includes the function to input text, change the text and background's color, and reset it to the default settings.
+The Pre-work application includes the functions to have user input text, change the text and background's color using repesctive buttons, and reset the display to the default settings.
 
 <img src="http://g.recordit.co/EDosGAVlgu.gif" width=200><br>
 
